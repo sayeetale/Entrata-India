@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T02:36:40 IST" name="Suite" finished-at="2024-03-04T02:38:38 IST" duration-ms="117847">
+    <groups>
+    </groups>
+    <test started-at="2024-03-04T02:36:40 IST" name="Test" finished-at="2024-03-04T02:38:38 IST" duration-ms="117847">
+      <class name="Testcase.TC_001_Signupvalidation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcase.TC_001_Signupvalidation@483f6d77]" started-at="2024-03-04T02:36:40 IST" name="setup" finished-at="2024-03-04T02:37:06 IST" duration-ms="25632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup()[pri:0, instance:Testcase.TC_001_Signupvalidation@483f6d77]" started-at="2024-03-04T02:37:06 IST" name="signup" finished-at="2024-03-04T02:37:09 IST" duration-ms="3272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Testcase.TC_001_Signupvalidation@483f6d77]" started-at="2024-03-04T02:37:09 IST" name="close" finished-at="2024-03-04T02:37:10 IST" duration-ms="567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcase.TC_001_Signupvalidation -->
+      <class name="Testcase.TC_002_Takeatourpage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcase.TC_002_Takeatourpage@76c3e77a]" started-at="2024-03-04T02:37:10 IST" name="setup" finished-at="2024-03-04T02:37:31 IST" duration-ms="21654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="takeatour()[pri:0, instance:Testcase.TC_002_Takeatourpage@76c3e77a]" started-at="2024-03-04T02:37:31 IST" name="takeatour" finished-at="2024-03-04T02:37:47 IST" duration-ms="15917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeatour -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Testcase.TC_002_Takeatourpage@76c3e77a]" started-at="2024-03-04T02:37:47 IST" name="close" finished-at="2024-03-04T02:37:48 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcase.TC_002_Takeatourpage -->
+      <class name="Testcase.TC_003_Guidepage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcase.TC_003_Guidepage@78123e82]" started-at="2024-03-04T02:37:48 IST" name="setup" finished-at="2024-03-04T02:38:13 IST" duration-ms="25822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="blog_page()[pri:0, instance:Testcase.TC_003_Guidepage@78123e82]" started-at="2024-03-04T02:38:13 IST" name="blog_page" finished-at="2024-03-04T02:38:15 IST" duration-ms="1231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blog_page -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Testcase.TC_003_Guidepage@78123e82]" started-at="2024-03-04T02:38:15 IST" name="close" finished-at="2024-03-04T02:38:15 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcase.TC_003_Guidepage -->
+      <class name="Testcase.TC_004_BillPay">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcase.TC_004_BillPay@67c33749]" started-at="2024-03-04T02:38:15 IST" name="setup" finished-at="2024-03-04T02:38:35 IST" duration-ms="19993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bill_pay()[pri:0, instance:Testcase.TC_004_BillPay@67c33749]" started-at="2024-03-04T02:38:35 IST" name="bill_pay" finished-at="2024-03-04T02:38:38 IST" duration-ms="2660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bill_pay -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Testcase.TC_004_BillPay@67c33749]" started-at="2024-03-04T02:38:38 IST" name="close" finished-at="2024-03-04T02:38:38 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcase.TC_004_BillPay -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

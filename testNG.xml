@@ -1,0 +1,10 @@
+<suite name="Suite">
+<test thread-count="5" name="Test">
+<classes>
+<class name="Testcase.TC_001_Signupvalidation"/>
+<class name="Testcase.TC_002_Takeatourpage"/>
+<class name="Testcase.TC_003_Guidepage"/>
+<class name="Testcase.TC_004_BillPay"/>
+</classes>
+</test>
+</suite>

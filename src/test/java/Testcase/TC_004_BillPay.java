@@ -12,7 +12,7 @@ public class TC_004_BillPay extends start {
     @Test
 	public void bill_pay() throws InterruptedException
 	{
-		Homepage hp = new Homepage(driver);
+		Homepage hp = new Homepage(driver);                                        //To create Home Page object
 		hp.clickonacceptallcookiesbutton();
 		Thread.sleep(1000);
 		hp.bill_pay();

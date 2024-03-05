@@ -17,9 +17,9 @@ public class TC_002_Takeatourpage extends start {
 		Thread.sleep(3000);                                         //Thread.sleep statement is use to wait after accepting the cookies
 		hp.take_a_tour_button();                                    //Referece of Home Page object is use to call take_a_tour_button method
 		
-		Takeatourpage tp = new Takeatourpage(driver);                //To create Take a Tour page object
+		Takeatourpage tp = new Takeatourpage(driver);                //To create Take the Tour page object
 		
-		tp.myFirstName();                                            //Referece of Take a Tour page object is use to call methods present in Takeatourpage class
+		tp.myFirstName();                                            //Referece of Take the Tour page object is use to call methods present in Takeatourpage class
 		tp.myLastName();
 		tp.myEmailAddress();
 		tp.myCompanyName();
